@@ -1,0 +1,40 @@
+[
+  {
+    "prompt_inputs": {
+      "task_description": "Generate a list of rhyming words given a word.",
+      "word": "cat"
+    },
+    "solution_criteria": [
+      "Contains at least 5 words that rhyme with 'cat'",
+      "Does not contain any non-rhyming words"
+    ],
+    "task_description": "",
+    "scenario": "Replace <task_description> and {prompt_inputs_spec} with actual descriptions to generate test ideas"
+  },
+  {
+    "prompt_inputs": {
+      "instructions": "You are a creative writing assistant. Generate a short fictional story incorporating the following three randomly selected words: penguin, constellation, symphony.",
+      "genre": "sci-fi"
+    },
+    "solution_criteria": [
+      "The story is a coherent narrative incorporating all three given words",
+      "The story belongs to the sci-fi genre"
+    ],
+    "task_description": "",
+    "scenario": "Ensure each idea tests a different aspect of the task, such as edge cases, complex inputs, or diverse domains"
+  },
+  {
+    "prompt_inputs": {
+      "task_description": "Generate a rhyming poem about a given topic",
+      "allowed_input_keys": [
+        "topic"
+      ]
+    },
+    "solution_criteria": [
+      "Poem rhymes and has consistent meter",
+      "Poem is coherent and relevant to the provided topic"
+    ],
+    "task_description": "",
+    "scenario": "Keep the ideas high-level but specific enough to develop into full test cases within the 400 token output limit"
+  }
+]

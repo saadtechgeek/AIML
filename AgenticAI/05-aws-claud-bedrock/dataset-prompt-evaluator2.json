@@ -1,0 +1,18 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "175",
+      "weight": "68",
+      "goal": "Compete in a marathon the next day",
+      "restrictions": "Lactose intolerant"
+    },
+    "solution_criteria": [
+      "Includes high-carb meals and snacks to maximize glycogen stores",
+      "Emphasizes hydrating foods and beverages",
+      "Avoids lactose-containing dairy products",
+      "Provides a balanced distribution of nutrients across meals/snacks"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Generate a 1 day meal plan for an athlete competing in a marathon the following day, focusing on carb-loading and hydration."
+  }
+]

@@ -1,0 +1,25 @@
+python -m venv .venv
+.venv\Scripts\activate
+pip install ipykernel boto3 notebook
+
+
+
+python -m ipykernel install --user --name=.venv --display-name "Python (.venv)"
+
+pip install --upgrade pyzmq jupyter ipykernel notebook
+
+
+inference profile.! specify model id, set iin 
+
+
+aws configure sso --profile badrock-agent
+
+.signin.aws.amazon.com/start
+
+https://techgeek-aws-gen.awsapps.com/start
+
+
+https://sshdtechgeek.awsapps.com/start
+
+
+aws sts get-caller-identity --profile bedrock-dev

@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Write a Python function that takes an AWS S3 bucket name as input and returns True if the bucket name is valid according to AWS naming conventions, and False otherwise."
+  },
+  {
+    "task": "Write a JSON object representing the configuration for an AWS Lambda function that processes incoming S3 events and logs the bucket name and object key."
+  },
+  {
+    "task": "Write a regular expression that matches AWS Resource Names (ARNs) for EC2 instances in a specific region (e.g., us-west-2)."
+  }
+]

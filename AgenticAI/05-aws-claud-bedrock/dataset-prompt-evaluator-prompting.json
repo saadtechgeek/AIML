@@ -1,0 +1,37 @@
+[
+  {
+    "prompt_inputs": {
+      "task_description": "Generate a concise summary that captures the key points from a passage of text."
+    },
+    "solution_criteria": [
+      "Includes the main topics and ideas from the input passage",
+      "Summarizes the content concisely and accurately"
+    ],
+    "task_description": "",
+    "scenario": "I will not generate test scenarios without an actual task description being provided. Please include the <task_description> section with details on what the prompt is expected to accomplish."
+  },
+  {
+    "prompt_inputs": {
+      "start_year": 2000,
+      "end_year": 2020,
+      "country": "United States"
+    },
+    "solution_criteria": [
+      "Provides a list of major events or milestones related to climate change and environmental policies in the United States between 2000 and 2020",
+      "Events/milestones are accurately described and chronologically ordered within the given date range"
+    ],
+    "task_description": "",
+    "scenario": "I should avoid making assumptions about the prompt's functionality. Providing clear requirements is important for developing robust and meaningful test cases."
+  },
+  {
+    "prompt_inputs": {
+      "content": "The world of renewable energy is rapidly evolving, with solar and wind power leading the charge. Solar photovoltaic technology has become increasingly affordable, with panel efficiency improving and manufacturing costs plummeting. Meanwhile, innovative wind turbine designs featuring composite blades and advanced control systems are capturing more energy, even in low-wind conditions. As these technologies continue to advance, they are poised to play a pivotal role in the global transition towards a sustainable energy future."
+    },
+    "solution_criteria": [
+      "Accurately identifies the main topics of solar power and wind power",
+      "Recognizes key details like cost reductions, efficiency improvements, and technological advancements"
+    ],
+    "task_description": "",
+    "scenario": "If you have an actual task or prompt you need test scenarios for, I'd be happy to assist once the necessary details are provided. Just include the <task_description> with specifics on what the prompt should do."
+  }
+]

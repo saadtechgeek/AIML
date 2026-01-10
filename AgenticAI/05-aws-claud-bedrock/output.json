@@ -1,0 +1,23 @@
+[
+  {
+    "output": "Here is a one-day meal plan for an athlete competing in a marathon the next day while being lactose intolerant:\n\n**Calorie Target:** Approximately 3000 calories  \n**Macronutrient Breakdown:** Protein (165g), Fat (90g), Carbs (420g)\n\n**Meal Plan:**\n\n* **Breakfast (7:00 AM):** Oatmeal (80g dry weight) with banana (100g), almond butter (30g), and chia seeds (10g). Dairy-free milk alternative (240ml).\n    * Protein: 15g, Fat: 20g, Carbs: 80g\n* **Mid-Morning Snack (10:00 AM):** Trail mix with nuts (30g), dried fruit (40g), and seeds (10g).\n    * Protein: 6g, Fat: 15g, Carbs: 25g  \n* **Lunch (1:00 PM):** Grilled chicken breast (120g) with sweet potato (200g), steamed broccoli (150g), and tahini sauce (30g). Whole wheat pita (60g).\n    * Protein: 40g, Fat: 20g, Carbs: 100g\n* **Pre-Run Snack (3:30 PM):** Banana (120g) with peanut butter (30g).\n    * Protein: 8g, Fat: 15g, Carbs: 30g\n* **Post-Run Recovery (6:00 PM):** Vegan protein shake (30g protein powder) with dairy-free milk alternative (240ml), berries (100g), and a granola bar (30g).  \n    * Protein: 36g, Fat: 10g, Carbs: 65g\n* **Dinner (8:00 PM):** Lentil and veggie curry (200g lentils, 150g veggies) with brown rice (100g dry weight).\n    * Protein: 30g, Fat: 5g, Carbs: 100g  \n* **Evening Snack (10:00 PM):** Fresh fruit (200g) with cashews (30g).\n    * Protein: 10g, Fat: 15g, Carbs: 40g\n\nThis plan focuses on complex carbs, lean proteins, healthy fats, and fruits/veggies to fuel the marathon while being lactose-free. Proper timing allows for carb-loading and recovery nutrition.",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "175",
+        "weight": "68",
+        "goal": "Compete in a marathon the next day",
+        "restrictions": "Lactose intolerant"
+      },
+      "solution_criteria": [
+        "Includes high-carb meals and snacks to maximize glycogen stores",
+        "Emphasizes hydrating foods and beverages",
+        "Avoids lactose-containing dairy products",
+        "Provides a balanced distribution of nutrients across meals/snacks"
+      ],
+      "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+      "scenario": "Generate a 1 day meal plan for an athlete competing in a marathon the following day, focusing on carb-loading and hydration."
+    },
+    "score": 10,
+    "reasoning": "The solution meets all mandatory requirements by providing a daily calorie total, macronutrient breakdown, and detailed meal plan with specific foods, portions, and timing. It also satisfies the secondary criteria by emphasizing high-carb foods to maximize glycogen stores, hydrating beverages, and avoiding lactose. The meals and snacks are well-balanced and appropriately timed for an athlete competing in a marathon."
+  }
+]

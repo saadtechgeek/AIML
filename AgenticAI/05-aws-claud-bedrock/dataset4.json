@@ -1,0 +1,17 @@
+[
+  {
+    "task": "Write a Python function that takes a list of AWS resource ARNs and returns a new list containing only the ARNs for EC2 instances.",
+    "format": "python",
+    "solution_criteria": "The function should correctly extract the ARNs for EC2 instances from the input list, handling various formats of ARNs. It should not modify or remove non-EC2 ARNs from the input list."
+  },
+  {
+    "task": "Create a JSON object representing an AWS S3 bucket policy that allows read access to a specific AWS account and denies all other access.",
+    "format": "json",
+    "solution_criteria": "The JSON object should be a valid AWS S3 bucket policy with the correct syntax and structure. It should include a statement that grants read access to the specified AWS account and another statement that denies all other access."
+  },
+  {
+    "task": "Write a regular expression that matches valid AWS Lambda function names.",
+    "format": "regex",
+    "solution_criteria": "The regular expression should correctly match valid AWS Lambda function names, which must be between 1 and 64 characters long, start with a letter, and contain only alphanumeric characters and hyphens. It should not match names that violate these rules."
+  }
+]

@@ -1,0 +1,36 @@
+> uv run main.py
+> mcp python main.py
+
+to start mcp server
+> mcp dev mcp_server.py
+
+
+mcp inspector can help alot in debugging.!
+mcp python sdk
+
+
+-------------------------------- client
+mcp client --> list_tools & call_tool
+
+uv run mcp_client.py
+
+uv run main.py
+
+> what is the contents of the report.pdf document?  --> clause decide to read the tool and claude able to read content of document.!!
+
+two type of resources
+- direct resources
+- templated resources
+
+
+---------------- resources -----------------------------------
+can return any type of data.!! mimetype is hint.!
+
+
+> uv run mcp dev mcp_server.py
+
+
+mcp_client --> read_resource
+
+(app) C:\01-MyComputer\03-Learn\08-agentic-core\04-mcp\codebase\02-mcp-server\cli_project_COMPLETE>uv run main.py
+> whats in the @deposition.md

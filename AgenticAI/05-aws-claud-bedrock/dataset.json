@@ -1,0 +1,38 @@
+[
+  {
+    "prompt_inputs": {
+      "topic": "Write a short story or poem about a magical adventure"
+    },
+    "solution_criteria": [
+      "Contains a coherent narrative with a clear beginning, middle, and end",
+      "Incorporates magical or fantastical elements that are central to the story",
+      "Demonstrates creative writing skills and descriptive language"
+    ],
+    "task_description": "",
+    "scenario": "Testing with a task involving generation of creative fiction writing, such as a short story or poem."
+  },
+  {
+    "prompt_inputs": {
+      "concept": "The mind-body problem"
+    },
+    "solution_criteria": [
+      "Explains the mind-body problem in clear, easy-to-understand language",
+      "Covers the main philosophical perspectives on the issue",
+      "Provides examples or analogies to illustrate key points"
+    ],
+    "task_description": "",
+    "scenario": "Testing with a task involving explaining a complex philosophical concept in easy-to-understand terms."
+  },
+  {
+    "prompt_inputs": {
+      "product_description": "A revolutionary new app that uses artificial intelligence to analyze your social media posts and suggest engaging captions tailored to your personality and interests."
+    },
+    "solution_criteria": [
+      "Highlights the key value proposition (AI-powered caption suggestions)",
+      "Conveys a tone that aligns with the target audience's interests and personality",
+      "Generates interest and excitement around the app's unique features"
+    ],
+    "task_description": "",
+    "scenario": "Testing with a task involving generating an engaging marketing pitch for a hypothetical product or service."
+  }
+]

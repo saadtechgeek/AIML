@@ -1,0 +1,17 @@
+[
+  {
+    "task": "Write a JSON object representing an AWS S3 bucket policy that allows read access to a specific AWS account.",
+    "format": "json",
+    "solution_criteria": "The JSON object should be a valid AWS S3 bucket policy, granting read access to a specific AWS account identified by its account ID."
+  },
+  {
+    "task": "Write a regular expression to validate an AWS Lambda function name. AWS Lambda function names must be between 1 and 64 characters long, and can contain only alphanumeric characters and hyphens.",
+    "format": "regex",
+    "solution_criteria": "The regular expression should correctly validate AWS Lambda function names according to the naming rules."
+  },
+  {
+    "task": "Write a Python function to list all AWS EC2 instances in a specific region and return a list of their instance IDs.",
+    "format": "python",
+    "solution_criteria": "The function should use the boto3 library to interact with the AWS EC2 service, and correctly return a list of instance IDs for all instances in the specified region."
+  }
+]
