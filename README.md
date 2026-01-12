@@ -1,114 +1,70 @@
-# 🤖 AI/ML Engineering Portfolio
+# 🤖 AI/ML Learning & Projects Portfolio
 
 <div align="center">
   
+  ![AI/ML](https://img.shields.io/badge/Focus-AI%20%26%20ML-blue?style=for-the-badge)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 </div>
 
 ---
 
-## 👨‍💻 About This Repository
+## 📋 Overview
 
-This repository showcases my practical work in AI/ML engineering as part of my ongoing Postgraduate studies at UT Austin. As a Senior Software Architect with 15+ years of enterprise experience, I'm bridging traditional software architecture with cutting-edge AI/ML technologies to build intelligent, scalable systems.
+This repository showcases my journey and practical work in Artificial Intelligence and Machine Learning. It contains a curated collection of personal projects, learning implementations, and experimental work that demonstrates my capabilities in modern AI/ML technologies and frameworks.
 
-**Focus Areas:** Agentic AI systems, LangChain/LangGraph implementations, machine learning algorithms, and enterprise AI integration patterns.
+**Purpose**: This repository serves as a comprehensive portfolio for professional evaluation, highlighting both original project work and documented learning from industry-leading resources.
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🤖 AgenticAI - Intelligent Agent Systems
+### 🏥 Appointment Agent System
+**Location**: [`AgenticAI/07-langchain/appointment-agent`](./AgenticAI/07-langchain/appointment-agent)
 
-Comprehensive implementations exploring modern agentic AI frameworks and patterns:
+A sophisticated agentic AI system built with LangChain for managing appointment scheduling workflows. This project demonstrates:
+- Multi-agent orchestration and conversation management
+- Integration with LangChain's agent framework
+- Practical implementation of conversational AI patterns
+- Real-world application of AI agents in business workflows
 
-#### **01 - LangGraph**
-Foundation work with LangGraph for building stateful, multi-actor applications with LLMs.
+### 📊 Machine Learning Projects
+**Location**: [`ML`](./ML)
 
-#### **02 - AI Protocols** 
-Core AI communication patterns and protocol implementations for agent interactions.
-
-#### **03 - Prompt Engineering**
-Advanced prompt engineering techniques for optimizing LLM responses and behavior.
-
-#### **04 - AWS Cloud + Bedrock**
-Integration of Claude AI with AWS Bedrock for cloud-native AI solutions, leveraging my AWS Solutions Architect expertise.
-
-#### **05 - CrewAI**
-Multi-agent orchestration systems using CrewAI framework for collaborative AI workflows.
-
-#### **06 - LangChain Appointment Agent**
-Production-ready appointment scheduling system featuring:
-- Autonomous conversation management
-- Multi-agent coordination using LangChain
-- Natural language processing for scheduling requests
-- Scalable architecture for enterprise deployment
-
-**Tech Stack:** Python, LangChain, LangGraph, CrewAI, AWS Bedrock, Claude AI
-
----
-
-### 📊 Machine Learning Solutions
-
-End-to-end machine learning implementations demonstrating practical application of ML algorithms:
-
-- Supervised and unsupervised learning models
-- Feature engineering and data preprocessing pipelines
+Original machine learning implementations covering various domains and techniques. This collection demonstrates hands-on experience with:
+- Supervised and unsupervised learning algorithms
 - Model training, evaluation, and optimization
-- Real-world problem-solving with ML techniques
-
-**Tech Stack:** Python, scikit-learn, TensorFlow, PyTorch, Pandas, NumPy
-
----
-
-## 🎓 Academic Foundation
-
-Currently pursuing **Postgraduate Certificate in Artificial Intelligence & Machine Learning** at **The University of Texas at Austin**, focusing on:
-- Advanced AI/ML concepts and architectures
-- LangChain and LangGraph for production AI systems
-- Integration of AI/ML into enterprise applications
-- Practical implementation of intelligent automation
+- Data preprocessing and feature engineering
+- Practical ML deployment strategies
 
 ---
 
-## 💼 Enterprise AI Vision
+## 🧠 Learning & Development
 
-Combining 15+ years of enterprise architecture experience with modern AI/ML capabilities to:
+This repository documents my continuous learning journey through structured courses and self-directed exploration. The implementations here reflect knowledge gained from multiple high-quality sources:
 
-- **Modernize Legacy Systems:** Integrate AI/ML into existing enterprise architectures
-- **Intelligent Automation:** Build agentic systems that reduce manual workflows
-- **Cloud-Native AI:** Leverage AWS/Azure for scalable AI deployments
-- **Business Value:** Focus on measurable outcomes and ROI from AI investments
+### Primary Learning Sources
 
----
+- **🤖 Claude AI** - Advanced AI assistance and best practices in prompt engineering
+- **🦜 LangChain Academy** - Official LangChain framework training and patterns
+- **🚢 CrewAI** - Multi-agent system orchestration and collaboration
+- **📚 Additional Resources** - Various online courses, documentation, and community tutorials
 
-## 🛠️ Technical Expertise
+### Content Attribution
 
-**AI/ML Stack**
-- **Frameworks:** LangChain, LangGraph, CrewAI, TensorFlow, PyTorch
-- **LLMs:** Claude (Anthropic), AWS Bedrock integration
-- **Tools:** Jupyter, scikit-learn, Pandas, NumPy
+The content in this repository falls into two categories:
 
-**Enterprise Integration**
-- **Cloud Platforms:** AWS (Bedrock, SageMaker, Lambda, EKS), Azure
-- **Architecture:** Microservices, Event-driven, Cloud-native patterns
-- **Languages:** Python (primary for AI/ML), Java, TypeScript
+1. **Original Projects** - Personal implementations and original work including:
+   - Appointment Agent System
+   - Machine Learning Projects (ML directory)
+   - Custom implementations and experiments
+2. **Learning Implementations** - Code following tutorials and courses from various sources, adapted and documented for learning purposes
 
-**AI Development Tools**
-- Claude Code, GitHub Copilot, Cursor, Windsurf
+> **Note**: Where applicable, specific learning sources are credited within individual project directories. This repository represents both original work and educational implementations synthesized from various learning resources.
 
 ---
-
-## 🏆 Relevant Certifications
-
-- 🤖 **AWS Certified AI Practitioner**
-- ☁️ **AWS Certified Solutions Architect - Professional**
-- 🤖 **Anthropic Model Context Protocol - Advanced**
-- 🤖 **Anthropic Claude in Amazon Bedrock**
-- 🐍 **Certified Professional in Python Programming (PCPP1)**
 
 ---
 
@@ -129,27 +85,89 @@ AIML/
 
 ---
 
-## 🚀 Philosophy
+## 🛠️ Technologies & Frameworks
 
-> "I believe that when you put your mind to it, you can achieve anything, no matter the challenge. Setting small, achievable goals leads to great accomplishments."
+<div align="center">
 
-This repository reflects my commitment to continuous learning and practical application. Each project represents not just code, but a step toward mastering AI/ML technologies that will transform how enterprises operate.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+## 🎓 Key Learning Areas
 
-- Building production-ready agentic AI systems
-- Integrating LLMs into enterprise workflows
-- Exploring advanced multi-agent architectures
-- Bridging traditional software architecture with modern AI capabilities
+- **Agentic AI Systems** - Building autonomous AI agents with decision-making capabilities
+- **LangChain Framework** - Developing LLM-powered applications and chains
+- **Multi-Agent Orchestration** - Coordinating multiple AI agents for complex workflows
+- **Machine Learning** - Classical ML algorithms, model training, and evaluation
+- **Prompt Engineering** - Crafting effective prompts for large language models
+- **AI Application Architecture** - Designing scalable AI-powered systems
+
+---
+
+## 🚀 Getting Started
+
+To explore the projects in this repository:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/saadtechgeek/AIML.git
+   cd AIML
+   ```
+
+2. **Navigate to specific projects**
+   ```bash
+   # Example: Appointment Agent
+   cd AgenticAI/07-langchain/appointment-agent
+   ```
+
+3. **Follow individual project READMEs** for specific setup instructions and requirements
+
+---
+
+## 📈 Project Status
+
+🟢 **Active Development** - This repository is continuously updated with new projects and learnings
+
+---
+
+## 🤝 Professional Context
+
+This repository is shared as part of my professional portfolio to demonstrate:
+- Practical AI/ML implementation skills
+- Ability to learn and adapt to new technologies rapidly
+- Understanding of modern AI frameworks and best practices
+- Problem-solving approach to real-world AI applications
+
+---
+
+## 📫 Contact & Collaboration
+
+Interested in discussing these projects or potential collaboration opportunities?
+
+- **GitHub**: [@saadtechgeek](https://github.com/saadtechgeek)
+- **Repository**: [AIML Projects](https://github.com/saadtechgeek/AIML)
+
+---
+
+## 📄 License
+
+Please refer to individual project directories for specific licensing information. Educational content adapted from courses retains attribution to original creators.
 
 ---
 
 <div align="center">
 
-**Senior Software Architect | AI/ML Engineer | AWS Solutions Architect Professional**
+### ⭐ If you find this work valuable, please consider starring the repository!
 
-*Turning complex problems into elegant, actionable solutions*
+**Built with passion for AI/ML** 🚀
 
 </div>
