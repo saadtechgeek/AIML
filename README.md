@@ -1,6 +1,3 @@
-# Copy the content below this line
-# ============================================
-
 # 🤖 AI/ML Learning & Projects Portfolio
 
 <div align="center">
@@ -36,7 +33,11 @@ A sophisticated agentic AI system built with LangChain for managing appointment 
 ### 📊 Machine Learning Projects
 **Location**: [`ML`](./ML)
 
-Collection of machine learning implementations covering various domains and techniques including supervised/unsupervised learning, model evaluation, and deployment strategies.
+Original machine learning implementations covering various domains and techniques. This collection demonstrates hands-on experience with:
+- Supervised and unsupervised learning algorithms
+- Model training, evaluation, and optimization
+- Data preprocessing and feature engineering
+- Practical ML deployment strategies
 
 ---
 
@@ -55,8 +56,11 @@ This repository documents my continuous learning journey through structured cour
 
 The content in this repository falls into two categories:
 
-1. **Original Projects** - Personal implementations and original work (e.g., Appointment Agent System)
-2. **Learning Implementations** - Code following tutorials and courses, adapted and documented for learning purposes
+1. **Original Projects** - Personal implementations and original work including:
+   - Appointment Agent System
+   - Machine Learning Projects (ML directory)
+   - Custom implementations and experiments
+2. **Learning Implementations** - Code following tutorials and courses from various sources, adapted and documented for learning purposes
 
 > **Note**: Where applicable, specific learning sources are credited within individual project directories. This repository represents both original work and educational implementations synthesized from various learning resources.
 
