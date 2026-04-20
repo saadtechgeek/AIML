@@ -66,6 +66,7 @@ The content in this repository falls into two categories:
 
 ---
 
+<<<<<<< HEAD
 ## 🗂️ Repository Structure
 
 ```
@@ -75,6 +76,23 @@ AIML/
 │       └── appointment-agent/  # Featured appointment scheduling system
 ├── ML/                     # Machine Learning projects and experiments
 └── [Additional directories] # Other AI/ML explorations
+=======
+---
+
+## 📂 Repository Structure
+
+```
+AIML/
+├── AgenticAI/
+│   ├── 01-langgraph/              # Stateful multi-actor applications
+│   ├── 02-ai_protocols/           # AI communication patterns
+│   ├── 03-prompt_engineering/     # Advanced prompting techniques
+│   ├── 04-aws-cloud-bedrock/      # AWS Bedrock integrations
+│   ├── 05-crew_ai/                # Multi-agent orchestration
+│   └── 06-langchain/
+│       └── appointment-agent/     # Production appointment system
+└── ML/                             # Machine learning implementations
+>>>>>>> 8641786b2969227a9c1e73e27ac4d14256356a91
 ```
 
 ---
